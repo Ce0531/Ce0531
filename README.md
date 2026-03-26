@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋Hi，there is Ce' profile   
+### 1. 🐱About Me
+- Female, Gemini
+- Hobby：Listen to music, watch anime, skate, play badminton and mahjong...[^01]
+  [^01]:所有运动都很菜
+- Learning：C++/Markdown/GitHub/Advanced Mathematics/College Physics...[^02]
+  [^02]:都难，不过我能学🤔 
+- Nice to meet you.😄
+- How to reach me:Leave a message on GitHub~📫
+### 2. 💬My Dream  
+- World peace, national prosperity, and people's happiness
+- Freedom, health, happiness
+### 3.🔭To Do List  
+- [ ] Learn c++/Markdown well  
+- [ ] Make my GitHub Profile more beautiful  
+- [ ] Write more interesting projects  
+- [ ] Becoming a better coder  
 
-<!--
-**Ce0531/Ce0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
