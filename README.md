@@ -1,4 +1,6 @@
 ## 👋Hi，there is Ce' profile  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1600&color=F4A7B9&center=true&vCenter=true&width=460&lines=Hi!+I'm+Ce;Want+To+Be+A+Full+Stack+Programmer;Thank+You❤)](https://git.io/typing-svg)
+
 ### 1. 🐱About Me
 - Female, Gemini
 - Hobby：Listen to music, watch anime, skate, play badminton and mahjong...[^01]
