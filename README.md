@@ -66,6 +66,9 @@
 - 🐙 **GitHub**：[Ce0531](https://github.com/Ce0531)
 
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 <div align="center">
 
